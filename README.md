@@ -8,3 +8,5 @@ I am currently doing BS in Artificial Intelligence.
 I have great interest is AI.
 <br> 
 Now I Started Genrative AI course under PIAIC Institute.
+<br>
+I also took live sessions of DIP Institute.
