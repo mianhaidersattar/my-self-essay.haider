@@ -10,3 +10,6 @@ I have great interest is AI.
 Now I Started Genrative AI course under PIAIC Institute.
 <br>
 I also took live sessions of DIP Institute.
+<br>
+My Instagram Id is itx._.mianhaider 
+ 
