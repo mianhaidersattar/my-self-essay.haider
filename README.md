@@ -9,7 +9,7 @@ I am a student of BS Program.
 <br>
 I am currently doing BS in Artificial Intelligence.
 <br>
-I have great interest is AI.
+I have great interest in AI and want to become AI Developer.
 <br> 
 Now I Started Genrative AI course under PIAIC Institute.
 <br>
