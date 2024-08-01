@@ -11,9 +11,9 @@ I am currently doing BS in Artificial Intelligence.
 <br>
 I have great interest in AI and want to become AI Developer.
 <br> 
-Now I Started Genrative AI course under PIAIC Institute.
-<br>
-I also took live sessions of DIP Institute.
+Now I Started Genrative AI course under PIAIC Institute
+and
+ also took live sessions of DIP Institute.
 <br>
 My Instagram Id is itx._.mianhaider 
 <br>
